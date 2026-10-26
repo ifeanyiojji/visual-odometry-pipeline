@@ -1,0 +1,9 @@
+.venv/
+build*/
+vcpkg_installed/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+CMakeUserPresets.json
+data/est.csv
+trajectory*.csv
